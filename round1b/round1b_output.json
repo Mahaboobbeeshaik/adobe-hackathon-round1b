@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "documents": ["company2022.pdf", "company2023.pdf"],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends and R&D investments",
+    "timestamp": "2025-07-27T18:20:00"
+  },
+  "extracted_sections": [
+    {
+      "document": "company2023.pdf",
+      "page": 2,
+      "section_title": "R&D Spending Overview",
+      "importance_rank": 1
+    },
+    {
+      "document": "company2022.pdf",
+      "page": 3,
+      "section_title": "Revenue Growth Breakdown",
+      "importance_rank": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "company2023.pdf",
+      "page": 2,
+      "refined_text": "In 2023, R&D spending increased by 30%, focusing on AI and sustainability..."
+    }
+  ]
+}
